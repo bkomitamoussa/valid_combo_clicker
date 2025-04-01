@@ -11,14 +11,12 @@ This script automates clicking YES or NO a set number of times for the Valid Com
 ### Step 3: Download this repository
 
 ### Step 4: Install Required Packages (just selenium):
+Open a new terminal at the project folder and run:
 
-	Open a new terminal at the project folder and run:
-
-		pip install -r requirements.txt
+	pip install -r requirements.txt
 
 ### Step 5: Run the script:
-	
-	In your terminal run:
+In your terminal run:
 
-		python3 validcombos.py
+	python3 validcombos.py
 	
